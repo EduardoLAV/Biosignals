@@ -1,0 +1,8 @@
+main.c:174:6:SystemClock_Config	96	static
+main.c:423:5:__io_putchar	16	static
+main.c:431:5:_write	16	static
+main.c:440:6:reverse	8	static
+main.c:451:5:intToStr	16	static
+main.c:468:6:ftoa	32	static
+main.c:89:5:main	56	static
+main.c:499:6:_Error_Handler	0	static
